@@ -1,0 +1,10 @@
+import javax.swing.JOptionPane;
+public class UnclosableWindow{
+public static void main(String[]args){
+int variable=1;
+while(variable==1){
+JOptionPane.showMessageDialog(null, "Hi :)");
+}
+}
+}
+//Simple as that. If you want to make it a Java Application yourself, use the executable for it. You can prank your friend with this, I guess.
