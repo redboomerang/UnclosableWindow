@@ -7,4 +7,4 @@ JOptionPane.showMessageDialog(null, "Hi :)");
 }
 }
 }
-//Simple as that. If you want to make it a Java Application yourself, use the executable for it. You can prank your friend with this, I guess.
+//Simple as that. If you want to make it a Java Application yourself, use the executable for it. You can mess with your friend with this, I guess.
